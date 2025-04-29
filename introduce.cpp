@@ -14,5 +14,10 @@ class mahasiswa{
     }
 
 };
-e
-   
+
+int main(){
+    mahasiswa mhs;
+
+    mhs.nim = 136;
+    mhs.nama = "Yuratama";
+}

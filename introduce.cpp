@@ -20,4 +20,7 @@ int main(){
 
     mhs.nim = 136;
     mhs.nama = "Yuratama";
+    mhs.nilai = 99;
+
+    mhs.printdata();
 }
